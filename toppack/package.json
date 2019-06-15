@@ -1,0 +1,17 @@
+{
+  "name": "toppack",
+  "version": "1.0.0",
+  "description": "A github searching tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "an error occured while making request"
+  },
+  "author": "sanjeev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "mongodb": "^2.2.33",
+    "request": "^2.88.0"
+  }
+}
